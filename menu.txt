@@ -14,8 +14,10 @@ Coffee
 -> Espresso single/double | 10K/15K
 -> Americano | 20K
 -> Cafe Latte | 20K
+-> Cappucino | 20K
 
 - Manual Brew
--> V60 | 25K
 -> Japanese | 27K
 -> Germa | 25K
+-> Elbaph | 30K
+-> Gorosei | 36K
